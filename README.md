@@ -19,7 +19,7 @@ Create .env file on the root path with the following keys:
 
 ## CRUD Operators 
 
-To have access to all CRUD Operators such as **CRUD USERS** and **CRUD PRODUCTS**, Lgin in with the following account :
+To have access to all CRUD Operators such as **CRUD USERS** , **CRUD PRODUCTS** , **CRUD CART** and **CRUD ORDERS**, Lgin in with the following account :
 
 ```
   username: admin
