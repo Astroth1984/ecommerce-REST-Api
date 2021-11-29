@@ -4,6 +4,7 @@
 
 1. Clone the Repository: `git colone https://github.com/Astroth1984/ecommerce-REST-Api.git`
 2. Install the required Dependencies: `npm install` or `yarn add`
+3. Run Project: `node app.js` or `yarn start`
 
 ## .env File
 
