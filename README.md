@@ -10,9 +10,19 @@
 Create .env file on the root path with the following keys: 
 
 ```
-  MONGO_URL = mongodb+srv:// __mongoDB**_User__ : ** password** @cluster0.uv1gv.mongodb.net/ **Your DB Name** ?retryWrites=true&w=majority
+  MONGO_URL = mongodb+srv:// <mongoDB_User> : <password> @cluster0.uv1gv.mongodb.net/ <Your DB Name> ?retryWrites=true&w=majority
   PASS_SEC = <Your_chosen_secret_key>
   JWT_SEC = <Your_chosen_secret_key>
   STRIPE_KEY = <STRIPE_SECRET_API_KEY>
 
 ```
+
+## CRUD Operators 
+
+To have access to all CRUD Operators such as **CRUD USERS** and **CRUD PRODUCTS**, Lgin in with the following account :
+
+```
+  username: admin
+  password: admin123
+  
+ ```
